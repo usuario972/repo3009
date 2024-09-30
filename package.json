@@ -1,11 +1,12 @@
 {
-  "name": "luxon",
+  "name": "cursojavascript",
   "version": "1.0.0",
+  "description": "",
   "main": "practicas1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alejandro Santillan",
-  "license": "ISC",
-  "description": "primer appjs"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
